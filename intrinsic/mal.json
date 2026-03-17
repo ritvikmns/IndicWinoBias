@@ -1,0 +1,64 @@
+{
+  "ml": [
+    {
+      "id": 1,
+      "male": "പുരുഷൻ",
+      "female": "സ്ത്രീ",
+      "en_label": "Man-Woman"
+    },
+    {
+      "id": 2,
+      "male": "ആൺകുട്ടി",
+      "female": "പെൺകുട്ടി",
+      "en_label": "Boy-Girl"
+    },
+    {
+      "id": 3,
+      "male": "അച്ഛൻ",
+      "female": "അമ്മ",
+      "en_label": "Father-Mother"
+    },
+    {
+      "id": 4,
+      "male": "ഭർത്താവ്",
+      "female": "ഭാര്യ",
+      "en_label": "Husband-Wife"
+    },
+    {
+      "id": 5,
+      "male": "സഹോദരൻ",
+      "female": "സഹോദരി",
+      "en_label": "Brother-Sister"
+    },
+    {
+      "id": 6,
+      "male": "മകൻ",
+      "female": "മകൾ",
+      "en_label": "Son-Daughter"
+    },
+    {
+      "id": 7,
+      "male": "മുത്തശ്ശൻ",
+      "female": "മുത്തശ്ശി",
+      "en_label": "Grandfather-Grandmother"
+    },
+    {
+      "id": 8,
+      "male": "കൊച്ചുമകൻ",
+      "female": "കൊച്ചുമകൾ",
+      "en_label": "Grandson-Granddaughter"
+    },
+    {
+      "id": 9,
+      "male": "വരൻ",
+      "female": "വധു",
+      "en_label": "Groom-Bride"
+    },
+    {
+      "id": 10,
+      "male": "അമ്മാവൻ",
+      "female": "അമ്മായി",
+      "en_label": "Uncle-Aunt"
+    }
+  ]
+}

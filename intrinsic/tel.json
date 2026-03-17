@@ -1,0 +1,64 @@
+{
+  "te": [
+    {
+      "id": 1,
+      "male": "పురుషుడు",
+      "female": "స్త్రీ",
+      "en_label": "Man-Woman"
+    },
+    {
+      "id": 2,
+      "male": "అబ్బాయి",
+      "female": "అమ్మాయి",
+      "en_label": "Boy-Girl"
+    },
+    {
+      "id": 3,
+      "male": "తండ్రి",
+      "female": "తల్లి",
+      "en_label": "Father-Mother"
+    },
+    {
+      "id": 4,
+      "male": "భర్త",
+      "female": "భార్య",
+      "en_label": "Husband-Wife"
+    },
+    {
+      "id": 5,
+      "male": "సోదరుడు",
+      "female": "సోదరి",
+      "en_label": "Brother-Sister"
+    },
+    {
+      "id": 6,
+      "male": "కొడుకు",
+      "female": "కూతురు",
+      "en_label": "Son-Daughter"
+    },
+    {
+      "id": 7,
+      "male": "తాత",
+      "female": "నాయనమ్మ",
+      "en_label": "Grandfather-Grandmother"
+    },
+    {
+      "id": 8,
+      "male": "మనుమడు",
+      "female": "మనుమరాలు",
+      "en_label": "Grandson-Granddaughter"
+    },
+    {
+      "id": 9,
+      "male": "వరుడు",
+      "female": "వధువు",
+      "en_label": "Groom-Bride"
+    },
+    {
+      "id": 10,
+      "male": "మామ",
+      "female": "అత్త",
+      "en_label": "Uncle-Aunt"
+    }
+  ]
+}

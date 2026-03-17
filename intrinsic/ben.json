@@ -1,0 +1,64 @@
+{
+  "bn": [
+    {
+      "id": 1,
+      "male": "পুরুষ",
+      "female": "নারী",
+      "en_label": "Man-Woman"
+    },
+    {
+      "id": 2,
+      "male": "ছেলে",
+      "female": "মেয়ে",
+      "en_label": "Boy-Girl"
+    },
+    {
+      "id": 3,
+      "male": "বাবা",
+      "female": "মা",
+      "en_label": "Father-Mother"
+    },
+    {
+      "id": 4,
+      "male": "স্বামী",
+      "female": "স্ত্রী",
+      "en_label": "Husband-Wife"
+    },
+    {
+      "id": 5,
+      "male": "ভাই",
+      "female": "বোন",
+      "en_label": "Brother-Sister"
+    },
+    {
+      "id": 6,
+      "male": "পুত্র",
+      "female": "কন্যা",
+      "en_label": "Son-Daughter"
+    },
+    {
+      "id": 7,
+      "male": "ঠাকুরদা",
+      "female": "ঠাকুমা",
+      "en_label": "Grandfather-Grandmother"
+    },
+    {
+      "id": 8,
+      "male": "নাতি",
+      "female": "নাতনি",
+      "en_label": "Grandson-Granddaughter"
+    },
+    {
+      "id": 9,
+      "male": "বর",
+      "female": "কনে",
+      "en_label": "Groom-Bride"
+    },
+    {
+      "id": 10,
+      "male": "কাকা",
+      "female": "কাকি",
+      "en_label": "Uncle-Aunt"
+    }
+  ]
+}

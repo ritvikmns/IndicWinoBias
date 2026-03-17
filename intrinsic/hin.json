@@ -1,0 +1,64 @@
+{
+  "hi": [
+    {
+      "id": 1,
+      "male": "आदमी",
+      "female": "औरत",
+      "en_label": "Man-Woman"
+    },
+    {
+      "id": 2,
+      "male": "लड़का",
+      "female": "लड़की",
+      "en_label": "Boy-Girl"
+    },
+    {
+      "id": 3,
+      "male": "पिता",
+      "female": "माता",
+      "en_label": "Father-Mother"
+    },
+    {
+      "id": 4,
+      "male": "पति",
+      "female": "पत्नी",
+      "en_label": "Husband-Wife"
+    },
+    {
+      "id": 5,
+      "male": "भाई",
+      "female": "बहन",
+      "en_label": "Brother-Sister"
+    },
+    {
+      "id": 6,
+      "male": "बेटा",
+      "female": "बेटी",
+      "en_label": "Son-Daughter"
+    },
+    {
+      "id": 7,
+      "male": "दादा",
+      "female": "दादी",
+      "en_label": "Grandfather-Grandmother"
+    },
+    {
+      "id": 8,
+      "male": "पोता",
+      "female": "पोती",
+      "en_label": "Grandson-Granddaughter"
+    },
+    {
+      "id": 9,
+      "male": "दूल्हा",
+      "female": "दुल्हन",
+      "en_label": "Groom-Bride"
+    },
+    {
+      "id": 10,
+      "male": "चाचा",
+      "female": "चाची",
+      "en_label": "Uncle-Aunt"
+    }
+  ]
+}

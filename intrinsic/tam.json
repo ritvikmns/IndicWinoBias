@@ -1,0 +1,64 @@
+{
+  "ta": [
+    {
+      "id": 1,
+      "male": "ஆண்",
+      "female": "பெண்",
+      "en_label": "Man-Woman"
+    },
+    {
+      "id": 2,
+      "male": "சிறுவன்",
+      "female": "சிறுமி",
+      "en_label": "Boy-Girl"
+    },
+    {
+      "id": 3,
+      "male": "தந்தை",
+      "female": "தாய்",
+      "en_label": "Father-Mother"
+    },
+    {
+      "id": 4,
+      "male": "கணவன்",
+      "female": "மனைவி",
+      "en_label": "Husband-Wife"
+    },
+    {
+      "id": 5,
+      "male": "சகோதரன்",
+      "female": "சகோதரி",
+      "en_label": "Brother-Sister"
+    },
+    {
+      "id": 6,
+      "male": "மகன்",
+      "female": "மகள்",
+      "en_label": "Son-Daughter"
+    },
+    {
+      "id": 7,
+      "male": "தாத்தா",
+      "female": "பாட்டி",
+      "en_label": "Grandfather-Grandmother"
+    },
+    {
+      "id": 8,
+      "male": "பேரன்",
+      "female": "பேத்தி",
+      "en_label": "Grandson-Granddaughter"
+    },
+    {
+      "id": 9,
+      "male": "மணமகன்",
+      "female": "மணமகள்",
+      "en_label": "Groom-Bride"
+    },
+    {
+      "id": 10,
+      "male": "மாமா",
+      "female": "அத்தை",
+      "en_label": "Uncle-Aunt"
+    }
+  ]
+}

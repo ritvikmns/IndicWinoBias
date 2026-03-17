@@ -1,0 +1,64 @@
+{
+  "kn": [
+    {
+      "id": 1,
+      "male": "ಗಂಡಸು",
+      "female": "ಹೆಂಗಸು",
+      "en_label": "Man-Woman"
+    },
+    {
+      "id": 2,
+      "male": "ಹುಡುಗ",
+      "female": "ಹುಡುಗಿ",
+      "en_label": "Boy-Girl"
+    },
+    {
+      "id": 3,
+      "male": "ತಂದೆ",
+      "female": "ತಾಯಿ",
+      "en_label": "Father-Mother"
+    },
+    {
+      "id": 4,
+      "male": "ಗಂಡ",
+      "female": "ಹೆಂಡತಿ",
+      "en_label": "Husband-Wife"
+    },
+    {
+      "id": 5,
+      "male": "ಸಹೋದರ",
+      "female": "ಸಹೋದರಿ",
+      "en_label": "Brother-Sister"
+    },
+    {
+      "id": 6,
+      "male": "ಮಗ",
+      "female": "ಮಗಳು",
+      "en_label": "Son-Daughter"
+    },
+    {
+      "id": 7,
+      "male": "ಅಜ್ಜ",
+      "female": "ಅಜ್ಜಿ",
+      "en_label": "Grandfather-Grandmother"
+    },
+    {
+      "id": 8,
+      "male": "ಮೊಮ್ಮಗ",
+      "female": "ಮೊಮ್ಮಗಳು",
+      "en_label": "Grandson-Granddaughter"
+    },
+    {
+      "id": 9,
+      "male": "ವರ",
+      "female": "ವಧು",
+      "en_label": "Groom-Bride"
+    },
+    {
+      "id": 10,
+      "male": "ಮಾವ",
+      "female": "ಅತ್ತೆ",
+      "en_label": "Uncle-Aunt"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "mr": [
+    {
+      "id": 1,
+      "male": "पुरुष",
+      "female": "स्त्री",
+      "en_label": "Man-Woman"
+    },
+    {
+      "id": 2,
+      "male": "मुलगा",
+      "female": "मुलगी",
+      "en_label": "Boy-Girl"
+    },
+    {
+      "id": 3,
+      "male": "वडील",
+      "female": "आई",
+      "en_label": "Father-Mother"
+    },
+    {
+      "id": 4,
+      "male": "नवरा",
+      "female": "बायको",
+      "en_label": "Husband-Wife"
+    },
+    {
+      "id": 5,
+      "male": "भाऊ",
+      "female": "बहीण",
+      "en_label": "Brother-Sister"
+    },
+    {
+      "id": 6,
+      "male": "पुत्र",
+      "female": "कन्या",
+      "en_label": "Son-Daughter"
+    },
+    {
+      "id": 7,
+      "male": "आजोबा",
+      "female": "आजी",
+      "en_label": "Grandfather-Grandmother"
+    },
+    {
+      "id": 8,
+      "male": "नातू",
+      "female": "नात",
+      "en_label": "Grandson-Granddaughter"
+    },
+    {
+      "id": 9,
+      "male": "नवरदेव",
+      "female": "नवरी",
+      "en_label": "Groom-Bride"
+    },
+    {
+      "id": 10,
+      "male": "काका",
+      "female": "काकू",
+      "en_label": "Uncle-Aunt"
+    }
+  ]
+}

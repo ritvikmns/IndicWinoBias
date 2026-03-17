@@ -1,0 +1,64 @@
+{
+  "or": [
+    {
+      "id": 1,
+      "male": "ପୁରୁଷ",
+      "female": "ମହିଳା",
+      "en_label": "Man-Woman"
+    },
+    {
+      "id": 2,
+      "male": "ବାଳକ",
+      "female": "ବାଳିକା",
+      "en_label": "Boy-Girl"
+    },
+    {
+      "id": 3,
+      "male": "ବାପା",
+      "female": "ମା",
+      "en_label": "Father-Mother"
+    },
+    {
+      "id": 4,
+      "male": "ସ୍ୱାମୀ",
+      "female": "ସ୍ତ୍ରୀ",
+      "en_label": "Husband-Wife"
+    },
+    {
+      "id": 5,
+      "male": "ଭାଇ",
+      "female": "ଭଉଣୀ",
+      "en_label": "Brother-Sister"
+    },
+    {
+      "id": 6,
+      "male": "ପୁଅ",
+      "female": "ଝିଅ",
+      "en_label": "Son-Daughter"
+    },
+    {
+      "id": 7,
+      "male": "ଜେଜେବାପା",
+      "female": "ଜେଜେମା",
+      "en_label": "Grandfather-Grandmother"
+    },
+    {
+      "id": 8,
+      "male": "ନାତି",
+      "female": "ନାତୁଣୀ",
+      "en_label": "Grandson-Granddaughter"
+    },
+    {
+      "id": 9,
+      "male": "ବର",
+      "female": "କନ୍ୟା",
+      "en_label": "Groom-Bride"
+    },
+    {
+      "id": 10,
+      "male": "ଦାଦା",
+      "female": "ଖୁଡ଼ୀ",
+      "en_label": "Uncle-Aunt"
+    }
+  ]
+}
